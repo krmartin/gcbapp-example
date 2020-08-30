@@ -14,3 +14,4 @@
 # limitations under the License.
 
 echo "Hello, world! The time right now is $(date)."
+echo "New release!"
